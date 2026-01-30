@@ -12,7 +12,7 @@ Please refer to https://github.com/dl-lim/friendly-hackathon-agentic-ai if you a
 
 When you have completed your work, open a PR to the repository.
 
-**Disclaimer**
+**Disclaimer**  
 The content and processes in this Hackathon are completely made up. Any similarities to real world processes are purely coincidental.
 
 # Proactive Cyber Risk Analytics
