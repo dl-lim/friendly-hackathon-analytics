@@ -1,8 +1,26 @@
-# Proactive Cyber Risk Analytics Hackathon
+# Hackathon Guidelines
 
-**2-hour hackathon** focused on data visualization and insight exploration for a cyber insurance company's Proactive department.
+Welcome to The Friendly Data Meetup's Hackathon. This session is made possible by CFC Underwriting.
 
-## Context
+The challenges before you today are open ended. You may bring your own perspective, your own tech stack, make your own assumptions about the data and collaborate with others on a project together
+
+The key goal here is to learn, work with great people, and have fun.
+
+This repository is for an Agentic AI project.
+
+Please refer to https://github.com/dl-lim/friendly-hackathon-agentic-ai if you are after the Agentic AI Project.
+
+When you have completed your work, open a PR to the repository.
+
+**Disclaimer**
+The content and processes in this Hackathon are completely made up. Any similarities to real world processes are purely coincidental.
+
+# Proactive Cyber Risk Analytics
+
+Data visualization and insights exploration for a cyber insurance company's Proactive department which notifies customers about risks on their internet-facing assets.
+
+
+## The Problem
 
 The **Proactive** department identifies and notifies customers about cyber risks (e.g., Open RDP, CVEs, exposed databases) based on their internet assets (IP addresses, domains).
 
